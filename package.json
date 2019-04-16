@@ -1,0 +1,26 @@
+{
+  "name": "ai_ipcamera",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arber555/AI_IPCamera.git"
+  },
+  "author": "Arber Mulla",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Arber555/AI_IPCamera/issues"
+  },
+  "homepage": "https://github.com/Arber555/AI_IPCamera#readme",
+  "dependencies": {
+    "bcrypt": "^3.0.6",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.5.1"
+  }
+}
